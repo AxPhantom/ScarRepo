@@ -2,9 +2,9 @@
 <addon id="repository.scar" name="Scar Repo" version="1.0" provider-name="Macaulay">
     <extension point="xbmc.addon.repository" name="Scar Repository">
         <dir>
-            <info compressed="false">https://raw.githubusercontent.com/AxPhantom/ScarRepo/master/zips/addons.xml</info>
+            <info compressed="false">https://raw.githubusercontent.com/AxPhantom/ScarRepo/zips/addons.xml</info>
             <checksum>https://raw.githubusercontent.com/YOUR_USERNAME_HERE/REPOSITORY_NAME_HERE/BRANCH_NAME_HERE/zips/addons.xml.md5</checksum>
-            <datadir zip="true">https://raw.githubusercontent.com/AxPhantom/ScarRepo/master/zips/</datadir>
+            <datadir zip="true">https://raw.githubusercontent.com/AxPhantom/ScarRepo/zips/</datadir>
         </dir>
     </extension>
     <extension point="xbmc.addon.metadata">
